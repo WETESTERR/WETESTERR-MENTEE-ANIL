@@ -1,0 +1,20 @@
+Variables
+Most of the time, we need to deal with data/information so we need to have variable which acts as a placeholder. 
+Variables reside in stack and values reside in Heap.
+
+Variable naming convention
+a. letters, digits and $, _
+b. first character should not start with digits
+c. You should follow camelCase.
+
+How to define Variable ?
+Using var, let and const. Differences explained in test.js file
+
+Loops
+For, while, do-while. Explained in test.js file
+
+Functions
+Functions are used to perform similar actions.
+Helps to reduce the code redundancy.
+ES5, ES6 signature are explained in test.js
+Anonymous Functions

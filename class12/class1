@@ -1,0 +1,29 @@
+JavaScript is a general-purpose programming language. This was created by Brenden Eich in 1995 at Netscape
+
+Inspired by Java
+
+Initially created  to make webpages live in nature
+
+Named as LiveScript
+
+Programs are called as Scripts
+
+JavaScript doesnt need any explicit compiler
+
+Scripts are executed by browser engine. And same engine is given by server(backend)
+
+Chrome - V8
+
+Firefox - SpiderMOnkey
+
+JavaScript execution can be done using Chrome Console
+
+On server side - install node from here: https://nodejs.org/en/download/
+
+Install any editor. Recommended: VS code
+
+Best guide : https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+Problem - Statement at class
+1. Factorial of 10
+2. Swap of 2 numbers

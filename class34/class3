@@ -1,0 +1,41 @@
+Operators && Comparators
+Operators returns booleans values. And if values are not boolean, it will convert values into boolean
+AND(&&), OR(||), NOT(!), >, <, ==
+If operand is not a boolean, its converted to boolean
+OR(All) operator/s executes from left to right
+OR finds the first truthy value
+OR acts as short-circuit
+AND finds the first falsy value
+Precedence of NOT > Precendence of AND > Prcedenc of OR
+Below are few default logic for defining the boolean conversion of data types [false]
+""
+NaN
+null
+undefined
+0
+Difference between == and === : == validates values only and === validates value and data types
+
+Array
+Array is a set of values/data.
+Array functions: push, pop, shift, unshift, reverse, length
+
+Default functions: https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm
+
+Few JS Exercise for this week:
+
+Write a JavaScript program to find the most frequent item of an array. 
+Sample array : var arr1=[3, 'a', 'a', 'a', 2, 3, 'a', 3, 'a', 2, 4, 9, 3];
+Sample Output : a ( 5 times )
+
+Write a JavaScript program to sort the items of an array.
+Sample array : var arr1 = [ 3, 8, 7, 6, 5, -4, 3, 2, 1 ];
+Sample Output : -4,-3,1,2,3,5,6,7,8
+
+Write a JavaScript function to find the difference of two arrays. 
+Test Data :
+console.log(difference([1, 2, 3], [100, 2, 1, 10]));
+["3", "10", "100"]
+console.log(difference([1, 2, 3, 4, 5], [1, [2], [3, [[4]]],[5,6]]));
+["6"]
+console.log(difference([1, 2, 3], [100, 2, 1, 10]));
+["3", "10", "100"]

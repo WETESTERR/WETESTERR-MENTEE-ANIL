@@ -1,0 +1,18 @@
+Objects
+Objects are used to store keyed collections of various data types and more complex entities.
+
+Object static methods
+Object.values(), Object.key(), Object.entries()
+
+Data types: 8 (7 primitive, 1 Object)
+Number
+bigint (2^53 -1)
+String
+Boolean
+undefined
+Objects
+Symbols
+functions
+
+this keyword
+this keyword refers to an object which is executing the current bit of JS code.

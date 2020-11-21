@@ -1,5 +1,114 @@
 // uncomment to execute the code-block.
 
+
+//Hoisting
+// function hey(){
+//     console.log("hey "+ myName)
+// }
+// hey()
+// var myName = "Anil"
+
+
+// function hey(){
+//     console.log("hey "+ myName)
+// }
+// hey()
+// let myName = "Anil"
+
+
+
+
+
+//Closure
+
+//Execute in HTML
+// let f = ()=>{
+//     let i = 10
+//     let j = 10
+//     let test =()=>{
+//     console.log(i)
+//     console.log(j)
+//     }
+//     return test
+//     }
+    
+//     console.dir(f())
+
+
+// let f
+// let i = 1
+// if (true) {
+//     f = () => {
+//         console.log(i)
+//     }
+// }
+
+// f()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Promise
+// function Anil() {
+//     return new Promise(function (resolve, reject) {
+//         const error = false
+//         if (!error) {
+//             setTimeout(() => {
+//                 console.log("I am Anil. Understood Promise")
+//             }, 5000)
+//             resolve()
+//         }
+//         else {
+//             reject("Not understood Promise")
+//         }
+//     })
+// }
+
+// Way1
+
+// Anil().then(function () {
+//     console.log("Good")
+// }).catch(function (error) {
+//     console.log(error + " Bad")
+// })
+
+//Way2
+// async function abc(){
+//     await Anil()
+// }
+
+// abc()
+
+//Way3
+// (async () => {
+//     await Anil()
+// })()
+
+//This is not valid
+// await Anil()
+
+
+
+
+
+
+
+
+
 //this
 
 // function bike() {

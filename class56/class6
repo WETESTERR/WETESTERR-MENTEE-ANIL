@@ -1,0 +1,19 @@
+Promises
+States of promises -
+a. resolve
+b. reject
+c. pending
+
+Why Promise?
+To work with async JS code
+
+How to deal with Promise?
+1. use .then-catch
+2. async await keywords
+3. async await keywords + anonymous functions
+
+
+Closures
+A closure is a function having access to the parent scope even after the parent function has closed.
+Closure is when a function is able to remember and access its lexical scope even when that function is executing outside its lexical scope.
+

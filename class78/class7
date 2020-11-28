@@ -1,0 +1,10 @@
+OOPs in JavaScript
+Classes > A template or a blue print
+Objects > Object is an instance of a class
+Polymorphism > same function names but different strcuture
+Encapsulation > Binding of code
+Inheritance > use of parent class properties in child class properties
+Abstraction/Interface > Hiding of code and represent in required mode.
+module.export > Exposing of js file as a module.
+Encapsulation = https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4
+
